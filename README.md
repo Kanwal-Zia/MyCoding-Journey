@@ -1,5 +1,5 @@
 # MyCoding-Journey
 This is my first Git Repository
-Authoe -kanwal hayat
+Authoe -kanwal zia 
 <br>
 zia khan
